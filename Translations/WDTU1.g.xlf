@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="WDTU">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2713666132 - Field 307497642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Age Demographic</source>
+          <<target>Edad Demográfica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Age Demographic - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 3605388587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audience Share</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Audience Share - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 2014268111 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Listener Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Listener Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 3745606367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Radio Show No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 3649897566 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ratings Source Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Ratings Source Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2713666132 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Listenership Entry - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 1362776885 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Broadcast Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field Broadcast Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 3745606367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field Radio Show No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4170841147 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Header - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 568743302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Item No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Item No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 1742179437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publisher Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Publisher Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 3300766066 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rate Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Rate Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 1882905478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Source No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 1753214751 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Source Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Source Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1780882195 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Item Rate - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 34440237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Format</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Data Format - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 486908828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Document No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Document No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 4240670190 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field End Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 1772640682 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publisher</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Publisher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 2169532623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Start Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 437938740 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Playlist Line - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1772640682 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Publisher - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1772640682 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Publisher - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 370510675 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ads Planned Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Ads Planned Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3326131828 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Advertising Revenue</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Advertising Revenue - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3605388587 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Audience Share</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Audience Share - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3711522514 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average Listeners</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Average Listeners - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2022848488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filler</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Date Filler - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3964856256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Frequency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Frequency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2707561415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Host Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 521091233 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Host Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Host Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2980651851 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>News Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field News Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 271331746 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>News Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field News Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2310526487 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PSA Planned Quantity</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field PSA Planned Quantity - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 702636862 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Radio Show Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2258054225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Royalty Cost</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Royalty Cost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3491367632 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Run Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Run Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 4004735025 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sports Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Sports Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2789026444 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sports Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Sports Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 3322143114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weather Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Weather Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4009690318 - Field 2885038963 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weather Required</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Weather Required - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 364013207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ACSAP ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field ACSAP ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 34440237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data Format</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Data Format - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 1637095154 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Duration - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 883711285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 3167542630 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Fee Amount</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Fee Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 1742179437 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Publisher Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Publisher Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 3745606367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Radio Show No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 1230148255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2042287114 - Field 1878130204 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 702636862 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Type - Field Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 702636862 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Type - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Report 2152892699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Shows</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Report Radio Shows - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
