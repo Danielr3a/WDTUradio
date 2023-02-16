@@ -3,6 +3,26 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="WDTU">
     <body>
       <group id="body">
+        <trans-unit id="Table 2875331390 - Field 2796757481 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Formula to Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Date Formula - Field Date Formula to Test - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2875331390 - Field 94641519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Date Formula - Field Date Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2875331390 - Field 1663593181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Primary Key</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Date Formula - Field Primary Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2875331390 - Field 1635041871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reference for Date Calculation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Date Formula - Field Reference for Date Calculation - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 2713666132 - Field 307497642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Age Demographic</source>
           <note from="Developer" annotates="general" priority="2"></note>
