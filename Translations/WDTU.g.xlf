@@ -218,10 +218,10 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Average Listeners - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 4009690318 - Field 2022848488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Date Filler</source>
+        <trans-unit id="Table 4009690318 - Field 995090288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date Filter</source>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Date Filler - Property Caption</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show - Field Date Filter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 4009690318 - Field 3964856256 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Frequency</source>

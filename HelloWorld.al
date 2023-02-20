@@ -23,6 +23,16 @@ page 50030 "Hello World List"
                 field("Audience Share"; rec."Audience Share") { ApplicationArea = Basic; }
                 field("Advertising Revenue"; rec."Advertising Revenue") { ApplicationArea = Basic; }
                 field("Royalty Cost"; rec."Royalty Cost") { ApplicationArea = Basic; }
+                field(Frequency; Rec.Frequency) { ApplicationArea = Basic; }
+                field("PSA Planned Quantity"; Rec."PSA Planned Quantity") { ApplicationArea = Basic; }
+                field("Ads Planned Quantity"; Rec."Ads Planned Quantity") { ApplicationArea = Basic; }
+                field("News Required"; Rec."News Required") { ApplicationArea = Basic; }
+                field("News Duration"; Rec."News Duration") { ApplicationArea = Basic; }
+                field("Sports Required"; Rec."Sports Required") { ApplicationArea = Basic; }
+                field("Sports Duration"; Rec."Sports Duration") { ApplicationArea = Basic; }
+                field("Weather Required"; Rec."Weather Required") { ApplicationArea = Basic; }
+                field("Weather Duration"; Rec."Weather Duration") { ApplicationArea = Basic; }
+                field("Date Filter"; rec."Date Filter") { ApplicationArea = Basic; }
             }
         }
     }
