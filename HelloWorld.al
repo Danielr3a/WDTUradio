@@ -6,6 +6,10 @@ page 50030 "Hello World List"
 {
     PageType = List;
     SourceTable = "Radio Show";
+    ApplicationArea = Basic;
+    UsageCategory = Lists;
+    CardPageId = "Radio Show Card";
+    // Editable = false;
 
     layout
     {
