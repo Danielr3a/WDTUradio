@@ -19,22 +19,6 @@ table 50031 "Radio Show"
         field(40; "Run Time"; Duration) { }
         field(50; "Host Code"; Code[20]) { }
         field(60; "Host Name"; Text[50]) { }
-
-        // field(66; "Balance Due"; Decimal)
-        // {
-        //     FieldClass = FlowField;
-        //     AutoFormatExpression = "Currency Code";
-        //     AutoFormatType = 1;
-        //     CalcFormula = Sum("Detailed Cust. Ledg. Entry".Amount
-        //     where("Customer No." = field("No."),
-        //     "Initial Entry Due Date" = field(UPPERLIMIT("Date Filter")),
-        //     "Initial Entry Global Dim. 1" = field("Global Dimension 1 Filter"),
-        //     "Initial Entry Global Dim. 2" = field("Global Dimension 2 Filter"),
-        //     "Currency Code" = field("Currency Filter")));
-        //     Caption = 'Balance Due';
-        //     Editable = false;
-        // }
-
         field(100; "Average Listeners"; Decimal)
         {
             Editable = false;
@@ -69,6 +53,7 @@ table 50031 "Radio Show"
                 "Data Format" = filter("Advertisement")
                 ));
         }
+
         field(1000; "Frequency"; Option) { OptionMembers = Hourly,Daily,Weekly,Monthly; }
         field(1010; "PSA Planned Quantity"; Integer) { }
         field(1020; "Ads Planned Quantity"; Integer) { }
@@ -81,6 +66,7 @@ table 50031 "Radio Show"
         field(1090; "Date Filter"; Date) { FieldClass = FlowFilter; }
 
     }
+
     fieldgroups
     {
         fieldgroup(DropDown; "No.", Name, "Host Name") { }
@@ -94,4 +80,3 @@ table 50031 "Radio Show"
     // }
 
 }
-

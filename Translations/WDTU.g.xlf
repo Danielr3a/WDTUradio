@@ -358,6 +358,31 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Entry - Field Type - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 4177663957 - Field 1541011875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>E-Mail</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Fan - Field E-Mail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4177663957 - Field 3025009285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Last Contacted</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Fan - Field Last Contacted - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4177663957 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Fan - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4177663957 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Fan - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4177663957 - Field 3745606367 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Radio Show No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Radio Show Fan - Field Radio Show No. - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 702636862 - Field 3004954119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Code</source>
           <note from="Developer" annotates="general" priority="2"></note>

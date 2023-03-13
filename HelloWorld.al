@@ -39,5 +39,14 @@ page 50030 "Hello World List"
                 field("Date Filter"; rec."Date Filter") { ApplicationArea = Basic; }
             }
         }
+        area(Factboxes)
+        {
+            part(Fans; "Radio Show Fan Factbox")
+            {
+                ApplicationArea = Basic;
+                SubPageLink = "Radio Show No." = field("No.");
+            }
+
+        }
     }
 }
