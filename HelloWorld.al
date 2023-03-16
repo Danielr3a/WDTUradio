@@ -44,7 +44,10 @@ page 50030 "Hello World List"
             part(Fans; "Radio Show Fan Factbox")
             {
                 ApplicationArea = Basic;
-                SubPageLink = "Radio Show No." = field("No.");
+                SubPageLink = "No." = field("No.");
+
+                //This was previously the one 
+                // SubPageLink = "Radio Show No." = field("No.");
             }
 
         }
